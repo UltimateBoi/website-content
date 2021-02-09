@@ -1,7 +1,7 @@
 ---
 id: guide-introduction
 title: Introduction
-custom_edit_url: https://github.com/AirReps/website-content/blob/edit/guide-introduction.md
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/guide-intoduction.md
 slug: /
 ---
 
