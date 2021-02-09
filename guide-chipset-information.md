@@ -4,6 +4,8 @@ title: Chipset Information
 custom_edit_url: https://github.com/AirReps/website-content/blob/edit/chipset-information.md
 ---
 
+> [See our Chipset tier list, which is ordered from newest to oldest](https://airreps.info/tierlist)
+
 :::note
 We recommend you download AirReps official application:
 [AirReps156X](https://airreps.info/android)
@@ -15,6 +17,7 @@ APK https://airreps.info/androidapk (Better for firmware upgrading currently.)
 :::info
 Clicking the chipset will take you to the chipset's datasheet, if available.
 :::
+
 ### 1562 Series
 |Feature | [1562F](https://airreps.info/files/datasheets/AB1561_AB1562_Datasheet.pdf) | [1562A](https://airreps.info/files/datasheets/AB1561_AB1562_Datasheet.pdf) | [1562M](https://airreps.info/files/datasheets/AB1561_AB1562_Datasheet.pdf) | [1562U](https://airreps.info/files/datasheets/AB1561_AB1562_Datasheet.pdf) |
 |---------|-------|-------|-------|-------|
