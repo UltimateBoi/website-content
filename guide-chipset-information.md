@@ -1,6 +1,7 @@
 ---
-id: chipset-information
+id: guide-chipset-information
 title: Chipset Information
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/chipset-information.md
 ---
 
 :::note
@@ -11,6 +12,9 @@ APK https://airreps.info/androidapk (Better for firmware upgrading currently.)
 :::
 
 ## Airoha
+:::info
+Clicking the chipset will take you to the chipset's datasheet, if available.
+:::
 ### 1562 Series
 |Feature | [1562F](https://airreps.info/files/datasheets/AB1561_AB1562_Datasheet.pdf) | [1562A](https://airreps.info/files/datasheets/AB1561_AB1562_Datasheet.pdf) | [1562M](https://airreps.info/files/datasheets/AB1561_AB1562_Datasheet.pdf) | [1562U](https://airreps.info/files/datasheets/AB1561_AB1562_Datasheet.pdf) |
 |---------|-------|-------|-------|-------|

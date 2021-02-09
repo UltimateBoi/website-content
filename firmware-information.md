@@ -1,6 +1,7 @@
 ---
 id: firmware-information
 title: Information
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/firmware-information.md
 ---
 :::caution
 Flashing the incorrect firmware to your device could brick it;
