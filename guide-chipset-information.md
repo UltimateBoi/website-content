@@ -1,7 +1,7 @@
 ---
 id: guide-chipset-information
 title: Chipset Information
-custom_edit_url: https://github.com/AirReps/website-content/blob/edit/chipset-information.md
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/guide-chipset-information.md
 ---
 
 > [See our Chipset tier list, which is ordered from newest to oldest](https://airreps.info/tierlist)

@@ -1,11 +1,38 @@
 ---
-id: guide-reviews
-title: Reviews
-custom_edit_url: https://github.com/AirReps/website-content/blob/edit/guide-reviews.md
+id: guide-version-information
+title: Version Information
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/guide-version-information.md
 ---
+:::tip
+You can find model specific information further down the page.
+:::
+
+## Generic Information
+### All devices have the following
+* Name Changing
+* GPS (iOS only)
+* Changing Tap Controls (iOS only)
+
+###  All devices are missing the following
+* Multi-Device Connect (iCloud Connect)
+
+## Device specific information
+### AirPods Gen 2: (Based off **V3M**)
+* macOS Support
+* Multi-Device Connect
+* About / Serial Number Page
+* Improved SFX
+
+### AirPods Pro: (Based off **V4.5**)
+* 1.1 Noise Cancelling (it's fairly close already)
+* macOS Support
+* Multi-Device Connect
+* Microphone Improvement
+* About / Serial Number Page (Some do and some don't have it)
+* Improved SFX
+
 
 ## AirPods 2
-
 ### V3M(Current Holy Grail) 
 > [Find reviews](https://www.reddit.com/r/AirReps/search?q=v3m&restrict_sr=1)
 
