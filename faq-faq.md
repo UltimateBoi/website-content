@@ -1,7 +1,7 @@
 ---
-id: guide-faq
+id: faq-faq
 title: FAQ
-custom_edit_url: https://github.com/AirReps/website-content/blob/edit/guide-faq.md
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/faq-faq.md
 ---
 
 :::tip

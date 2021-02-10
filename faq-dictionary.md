@@ -1,7 +1,7 @@
 ---
-id: guide-dictionary
+id: faq-dictionary
 title: Dictionary
-custom_edit_url: https://github.com/AirReps/website-content/blob/edit/guide-dictionary.md
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/faq-dictionary.md
 ---
 
 Not sure what W2C means? What’s ANC? Don’t be confused, 
