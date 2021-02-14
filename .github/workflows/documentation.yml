@@ -34,6 +34,7 @@ jobs:
     steps:
       - name: checkout website
         run: |
+         git config --global user.email "actions@gihub.com"
          git clone https://github.com/AirReps/airreps-site.git
          cd docs/ && git pull origin master
          cd ..
