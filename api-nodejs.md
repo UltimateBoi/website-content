@@ -1,11 +1,15 @@
 ---
-id: api-nodejs
-title: API package for node.js
-custom_edit_url: https://github.com/AirReps/website-content/blob/edit/api-nodejs.md
+id: api-wrapper
+title: AirReps API Wrapper
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/api-wrapper.md
 ---
 
-# AirReps API Wrapper  
-**Simple package for nodejs which helps to communicate with the AirReps API.**  
+:::warning
+This area is still under construction
+:::
+
+>Simple package for nodejs which helps to communicate with the AirReps API
+
 ## Example 
 ```js
 const api = require("airreps-api");
@@ -19,7 +23,7 @@ api.chipdoc("AB1562A")
 ## Functions  
   
 ### **chipdoc()**  
-This function gets data from the ``/chipdoc`` in the api, and returns it in json format.  
+This function gets data from the ``/chipdoc`` endpoint, and returns it in json format.  
 The function works in async.  
 #### Information  
 » Required parameters:  
