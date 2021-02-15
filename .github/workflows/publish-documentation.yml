@@ -26,6 +26,7 @@ jobs:
          node-version: '12.x'
      - name: Test Build
        run: |
+         cd /home/runner/work/website-content/website-content/airreps-site/
          if [ -e yarn.lock ]; then
          yarn install --frozen-lockfile
          elif [ -e package-lock.json ]; then
