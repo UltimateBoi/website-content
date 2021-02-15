@@ -1,5 +1,5 @@
  
-name: documentation
+name: Publish Documentation
 
 on:
   pull_request:
@@ -21,7 +21,6 @@ jobs:
         cd airreps-site/docs
         git pull origin master
         cd ../..
-     - uses: actions/checkout@v1
      - uses: actions/setup-node@v1
        with:
          node-version: '12.x'
