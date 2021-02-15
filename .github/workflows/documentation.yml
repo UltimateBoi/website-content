@@ -36,6 +36,10 @@ jobs:
         run: |
          git config --global user.email "actions@gihub.com"
          git clone https://github.com/AirReps/airreps-site.git --recursive
+         cd airreps-site/docs
+         git pull origin master
+         cd ../..
+         pwd
 #       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
         with:
