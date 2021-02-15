@@ -3,9 +3,11 @@ name: Publish Documentation
 
 on:
   pull_request:
-    branches: [edit]
+    branches: 
+     - master
   push:
-    branches: [edit]
+    branches:
+     - master
   
   workflow_dispatch:
 
