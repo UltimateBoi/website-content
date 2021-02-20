@@ -43,25 +43,33 @@ what you see in the video above.
 
 ### Tigerbuilder
 
+#### Februray 2021 - V130.X.X.45
+<!-- > [Download - V130.X.X.45](_blank) -->
+* Not yet available
+
+#### January 2021 - V130.X.X.42
+<!-- > [Download - V130.X.X.42](_blank) -->
+* Not yet available
+
 #### January 2021 - V130.1.1.40
-> [Download - V130.1.1.40](http://dev.airreps.info/download.php?id=70&token=JCz3hABE1QjRUwCb87hnYr9uGxXtM3iY)
+> [Download - V130.1.1.40](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V130.1.1.40_FOTA.rar)
 
 * More bass
 * Better battery life
 
 #### January 2021 - V130.1.2.38   
->[Download - V130.1.2.38](http://dev.airreps.info/download.php?id=71&token=oerBNY4xvC3L8hB3d5rBdZvHvivuXAZ3)  
+>[Download - V130.1.2.38](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V130.1.2.38_FOTA.zip)  
 
 * No known changes
 
 #### December 2020 - V130.1.2.35
-> [Download - V130.1.1.35](http://dev.airreps.info/download.php?id=65&token=Ii1Nc8VBeR1vdUcDxbQVzOsIeUtedjO3)  
+> [Download - V130.1.1.35](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V130.1.1.35_FOTA.rar)  
 
 * Improved stability
 * Auto connection with device is often slow, but not always. Probably will be fixed in .38
 
 #### November 2020 - V130.1.2.32
-> [Download - V130.1.1.32](http://dev.airreps.info/download.php?id=66&token=ylnfvwH4suJvQLlbySfdLmlsRuKdjYeg)  
+> [Download - V130.1.1.32](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V130.1.1.32_FOTA.rar)  
 
 * During calls, iOS will auto switch to phone microphone when pods are put in case.
 * Added better bass.
@@ -71,15 +79,15 @@ what you see in the video above.
 * Fixed Apple watch compatibility.
 
 #### October 2020 - V130.1.2.24
-> [Download - V120.1.1.24](http://dev.airreps.info/download.php?id=67&token=ImFZ0mlImvFqXbdZFyiC7ocwTtEiGiKk)  
+> [Download - V120.1.1.24](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V120.1.1.24_FOTA.rar)  
 
 * Sound quality has been improved with better treble, now matches retail.
 * SFX has been improved, with better clarity and more comfortable sound.
 * Modified default double-click operation; Left ear play next song, Right ear pause/play.
 
 #### September 2020 - V130.1.2.20 | V130.1.2.20 
-> [Download - V120.1.1.20](http://dev.airreps.info/download.php?id=68&token=RHSbwVA8QbDl9VRxwhqnn24fI5cHSkjm)  
-> [Download - V120.1.1.17](http://dev.airreps.info/download.php?id=64&token=dPnmfin8aWQvy7BgXOLfbnIXcgLFdb9c)
+> [Download - V120.1.1.20](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V120.1.1.20_FOTA.zip)  
+> [Download - V120.1.1.17](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V120.1.1.17_FOTA.rar)
 
 * Fixed one side of airpods being extra power-hungry.
 
@@ -89,14 +97,19 @@ what you see in the video above.
 You can check if the unit is by AiTronics by doing a soft reset.
 AiTronics pods will blink 3 times with blue light after the case has blinked with orange.
 
+#### February 2021
+<!-- > [Download - GOES_HERE](_blank) -->
+
+* Not yet available
+
 #### January 2021
-> [Download - 1562AJan21Ai](http://dev.airreps.info/download.php?id=69&token=kGsTxmC2Djo1bja8M5w0Sw7NZMYQqPoC)
+> [Download - 1562AJan21Ai](https://github.com/AirReps/firmware/raw/master/devices/pro/AB1562A/AiTronics%20%7C%20iTronics/1562A_JAN_2021.zip)
 
 * Improved ANC background static.
 * Improved Transparency mode.
 
 #### November 2020
-> [November 2020](https://airreps.info/files/uploads/1562A_艾创力_空间音频固件.zip)
+> [November 2020](https://github.com/AirReps/firmware/raw/master/devices/pro/AB1562A/AiTronics%20%7C%20iTronics/1562A_NOV_2020.zip)
 
 * Added spatial audio.
 
@@ -105,6 +118,6 @@ You can check if the unit is by Dongguan by doing a soft reset.
 Dongguan pods **will not** blink with blue light after the case has blinked with orange.
 
 #### November 2020
-> [November](http://dev.airreps.info/download.php?id=63&token=IHBsHpQlpPYFITzHXNeH9oBdlMMKuJTR)
+> [November](https://github.com/AirReps/firmware/raw/master/devices/pro/AB1562A/Dongguan%20HR/dongguan_A3_Plus_V315_2020-11-18%20FOTA.zip)
 
 * Detailed information is not available.
