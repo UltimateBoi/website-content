@@ -72,7 +72,4 @@ price. The technology behind Hybrid ANC is more complicated and requires more ex
 pricier overall. Apple’s retail AirPods Pros use this hybrid variation, which is one of the reasons for their 
 high pricing. We can even see examples of this technology being replicated in the AirPods clone market. HiCity’s 
 newly released v4.5 (featuring the Airoha 1562A chipset) also replicates the hybrid ANC effect to provide a full 
-and authentic noise cancelling experienc
-
-[Click here to read detailed information about current chipsets used in replicas and get the 
-latest firmware for your AirPods.](guide-chipset-information.md)
+and authentic noise cancelling experience
