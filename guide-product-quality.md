@@ -119,6 +119,10 @@ was negligent in their handling of the product.
   being caused to the pod.
   
 ### Sound quality
+:::note
+This category is under re-construction.
+For the time being, we recommend you go to [Sound Quality - Introduction](soundQuality-introduction)
+:::
 * The best widely available AirPods 2 and AirPods Pro reps are about 8-9/10 in 
   sound quality when compared with the originals
 * Sound quality can vary depending on the version, the chip, and the batch. 

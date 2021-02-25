@@ -1,7 +1,7 @@
 ---
-id: firmware-information
-title: Information
-custom_edit_url: https://github.com/AirReps/website-content/blob/edit/firmware-information.md
+id: firmware-firmware
+title: Firmware
+custom_edit_url: https://github.com/AirReps/website-content/blob/edit/firmware-firmware.md
 ---
 :::caution
 Flashing the incorrect firmware to your device could brick it;
@@ -85,7 +85,7 @@ what you see in the video above.
 * SFX has been improved, with better clarity and more comfortable sound.
 * Modified default double-click operation; Left ear play next song, Right ear pause/play.
 
-#### September 2020 - V130.1.2.20 | V130.1.2.20 
+#### September 2020 - V130.1.2.20 | V130.1.2.17 
 > [Download - V120.1.1.20](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V120.1.1.20_FOTA.zip)  
 > [Download - V120.1.1.17](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V120.1.1.17_FOTA.rar)
 
