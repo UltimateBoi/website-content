@@ -1,6 +1,6 @@
 ---
 id: soundQuality-dongguan
-title: Dongguan
+title: Dongguan HR
 custom_edit_url: https://github.com/AirReps/website-content/blob/edit/soundQuality-dongguan.md
 ---
 
