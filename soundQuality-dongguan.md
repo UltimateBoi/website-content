@@ -1,6 +1,6 @@
 ---
 id: soundQuality-dongguan
-title: Dongguan
+title: Dongguan HR
 custom_edit_url: https://github.com/AirReps/website-content/blob/edit/soundQuality-dongguan.md
 ---
 
@@ -10,6 +10,7 @@ Each devices is measured per firmware revision, where possible.
 :::
 
 ### November 2020
+> To see a larger version of our graphs, right click select "Open image in new tab"
 - Orange line: ANC Off
 - Purple line: ANC On
 - Green line: Transparency Mode
