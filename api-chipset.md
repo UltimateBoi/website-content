@@ -17,7 +17,7 @@ replicas, is to [join our discord!](https://airreps.link/discord)
 # Overview
 This endpoint is used to get the current/latest documentation for a bluetooth chipset that is in some way related to airpod replicas or has relatives (same family) that are. 
 
-For example, AB1536 is used in replicas, so AB1530 will also be listed in the database. We are comstantly updating the database with new chipsets.
+For example, AB1536 is used in replicas, so AB1530 will also be listed in the database. We are constantly updating the database with new chipsets.
 
 # Methods
 ## `/chipdoc`
@@ -49,4 +49,4 @@ Returns a JSON body with:
 ```
 
 ### Example
-**[Try it here](https://apitester.com/shared/checks/84fdf39c85cb4e6db47b87b9a5822d34)**
+**[Try it here](https://apitester.com/shared/checks/c7b55ed92c5c4f419ec56d74c0189bfb)**
