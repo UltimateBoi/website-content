@@ -12,12 +12,13 @@ This area is still under construction
 
 ## Example 
 ```js
-const api = require("airreps-api");
+const Api = require("airreps-api");
+const api = new Api();
 
 api.members()
-.then(m => {console.log(m.count)});
+.then(m => {console.log(m)});
 api.chipdoc("AB1562A")
-.then(m => {console.log(m.link)});
+.then(m => {console.log(m)});
 ```  
   
 ## Functions  
