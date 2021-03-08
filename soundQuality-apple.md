@@ -25,5 +25,5 @@ The following readings are what other headsets are benchmarked against.
 -coming soon?
 
 ## AirPods Pro
-![Apple AirPod Pro](./assets/sound-quality/graphs/AppleAirPodsPro.jpg)
+![Apple AirPod Pro](./assets/sound-quality/graphs/Apple-AirPodsPro.jpg)
 [Source](https://crinacle.com/graphs/iems/apple-airpods-pro/)
