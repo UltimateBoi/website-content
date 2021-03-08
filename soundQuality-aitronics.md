@@ -13,7 +13,7 @@ Each devices is measured per firmware revision, where possible.
 - coming soon
 
 ### January 2021
-- coming soon
+![Aitronics January firmware frequency graph](./assets/sound-quality/graphs/AitronicsV4.5-ANC-comparison.jpg)
 
 ### November 2020
 - coming soon
