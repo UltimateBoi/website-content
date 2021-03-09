@@ -5,7 +5,7 @@ custom_edit_url: https://github.com/AirReps/website-content/blob/edit/soundQuali
 ---
 
 :::info
-This part is still under construction. For the time being, we've linked 3rd party readings until we can conduct our own.
+To see a larger version of our graphs, right click the image and select "Open image in new tab"
 :::
 
 ## Benchmark
@@ -25,5 +25,7 @@ The following readings are what other headsets are benchmarked against.
 -coming soon?
 
 ## AirPods Pro
-![Apple AirPod Pro](./assets/sound-quality/graphs/Apple-AirPodsPro.jpg)
-[Source](https://crinacle.com/graphs/iems/apple-airpods-pro/)
+- Orange line: ANC OFF
+- Purple line: ANC ON
+- Grey/Black line: Transparency Mode
+![Apple AirPod Pro](./assets/sound-quality/graphs/AirpodsPro.jpg)
