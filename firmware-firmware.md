@@ -43,13 +43,12 @@ what you see in the video above.
 
 ### Tigerbuilder
 
-#### Februray 2021 - V130.X.X.45
-<!-- > [Download - V130.X.X.45](_blank) -->
-* Not yet available
+#### Februray 2021 - V130.1.1.144
+> [Download - V130.1.1.144](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V130.1.1.144_FOTA.rar)
 
 #### January 2021 - V130.X.X.42
 <!-- > [Download - V130.X.X.42](_blank) -->
-* Not yet available
+* Not available
 
 #### January 2021 - V130.1.1.40
 > [Download - V130.1.1.40](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V130.1.1.40_FOTA.rar)
