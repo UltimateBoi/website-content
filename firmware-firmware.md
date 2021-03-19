@@ -48,10 +48,6 @@ what you see in the video above.
 
 * Improved stability
 
-#### January 2021 - V130.X.X.42
-<!-- > [Download - V130.X.X.42](_blank) -->
-* Not available
-
 #### January 2021 - V130.1.1.40
 > [Download - V130.1.1.40](https://github.com/AirReps/firmware/raw/master/devices/non-pro/AB1562M/TigerBuilder/V130.1.1.40_FOTA.rar)
 
@@ -98,11 +94,6 @@ what you see in the video above.
 You can check if the unit is by AiTronics by doing a soft reset.
 AiTronics pods will blink 3 times with blue light after the case has blinked with orange.
 
-#### February 2021
-<!-- > [Download - GOES_HERE](_blank) -->
-
-* Not yet available
-
 #### January 2021
 > [Download - 1562AJan21Ai](https://github.com/AirReps/firmware/raw/master/devices/pro/AB1562A/AiTronics%20%7C%20iTronics/1562A_JAN_2021.zip)
 
@@ -117,6 +108,11 @@ AiTronics pods will blink 3 times with blue light after the case has blinked wit
 ### Dongguan HR
 You can check if the unit is by Dongguan by doing a soft reset.
 Dongguan pods **will not** blink with blue light after the case has blinked with orange.
+
+#### March 2021
+> [March 2021](https://github.com/AirReps/firmware/raw/master/devices/pro/AB1562A/Dongguan%20HR/dongguan_HR3.10_2021-03-19.zip)
+
+* Detailed information is not available.
 
 #### November 2020
 > [November](https://github.com/AirReps/firmware/raw/master/devices/pro/AB1562A/Dongguan%20HR/dongguan_A3_Plus_V315_2020-11-18%20FOTA.zip)
