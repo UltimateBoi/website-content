@@ -100,6 +100,11 @@ AiTronics pods will blink 3 times with blue light after the case has blinked wit
 * Improved ANC background static.
 * Improved Transparency mode.
 
+#### December 2020
+> [December 2020](https://github.com/AirReps/firmware/raw/master/devices/pro/AB1562A/AiTronics%20%7C%20iTronics/1562A_DEC_2020.zip)
+
+* Detailed information is not available.
+
 #### November 2020
 > [November 2020](https://github.com/AirReps/firmware/raw/master/devices/pro/AB1562A/AiTronics%20%7C%20iTronics/1562A_NOV_2020.zip)
 
