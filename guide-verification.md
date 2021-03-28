@@ -1,6 +1,6 @@
 ---
-id: guide-Verification
-title: Verified Sellers & Products
+id: guide-verification
+title: Verified Sellers
 custom_edit_url: https://github.com/AirReps/website-content/blob/edit/guide-verification.md
 ---
 
