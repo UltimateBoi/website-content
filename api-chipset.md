@@ -24,7 +24,7 @@ For example, AB1536 is used in replicas, so AB1530 will also be listed in the da
 > Returns an object with the current status of the AirReps discord server.
 
 ### Use Case
-Query the current state of AirReps' discord server
+Getting documentation for a specific chipset related to replicas.
 
 ### Request
 ```shell
