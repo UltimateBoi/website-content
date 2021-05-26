@@ -56,7 +56,7 @@ We recommend you add the following remarks in your purchase comments.
 :::
 
 ### AirPods 2
-####**v3m** (Latest) (Tigerbuilder batch)  
+#### **v3m** (Latest) (Tigerbuilder batch)  
 HICITY (no Apple text) https://airreps.link/hcv3md  [Open on desktop]  
 *If you want Apple Text you need to purchase the reps through HiCity’s official website: https://hicity.airreps.info 
 
@@ -70,19 +70,19 @@ https://airreps.link/jenny [Choose "V3M"]
 [AliExpress]   
 https://airreps.link/jennyv3mexpress  
     
-####**v3**    
+#### **v3**    
 *Currently no sellers*   
   
-####**v2** (Value)     
+#### **v2** (Value)     
 *Currently no sellers*     
   
 
 ### AirPods Pro
-####**v4.7**  
+#### **v4.7**  
 HICITY: (no Apple text) https://airreps.link/hcv47 [open on desktop]  
 *If you want Apple Text you need to purchase the reps through HiCity’s official website: https://hicity.airreps.info  
 
-####**v4.5**     
+#### **v4.5**     
 
  - JENNY -    
    
@@ -95,7 +95,7 @@ https://airreps.link/jennyv45express
 HICITY: (no Apple text) https://airreps.link/hcv45d [open on desktop]  
 *If you want Apple Text you need to purchase them through HiCity’s official website: https://hicity.airreps.info  
   
-####**v4**                                                       
+#### **v4**                                                       
 HICITY (no Apple text) https://airreps.link/hcv4blued  
 *If you want Apple Text you need to purchase the reps through HiCity’s official website: https://hicity.airreps.info  
   
