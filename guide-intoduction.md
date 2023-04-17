@@ -15,13 +15,14 @@ Whatever the reason, you’re here cause you want to have a pair of AirPods,
 but it’s likely that you just can’t justify spending $150+ dollars on a pair of earphones (
 or $250+ for AirPods Pros) that will last you a year or two, or maybe even shorter as they’re easily lost.
 
-Well after reading this guide, there's almost no reason to buy AirPods from Apple, as the 
-replicas are almost as good and getting better day by day.
-
 So… **ENTER** → The “AirReps Ultimate Guide” !
 
 This guide is made to help you and the community quickly find out everything about the best replica AirPods, 
 what to look out for, how to buy and troubleshoot.
+
+After reading this guide, you will likely find that purchasing replica AirPods is a more cost-effective and equally viable option compared to buying from Apple.
+In the "AirReps Ultimate Guide," we will provide detailed information on the best replica AirPods, what to look out for, how to buy, and how to troubleshoot.
+This guide is constantly updated to provide the latest information, and the best way to get continued support and help is to join our [Discord](https://airreps.link/discord) community.
 
 We are constantly updating this guide, so if you’re reading this, it will be the latest information available.
 
