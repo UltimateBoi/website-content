@@ -20,7 +20,7 @@ You can find model specific information further down the page.
 * About / Serial Number Page
 * Improved SFX
 
-### AirPods Pro: (Based off **V4.9**)
+### AirPods Pro: (Based off **V4.9 TB**)
 * Close to retail ANC (it's fairly close already)
 * 1:1 Hinge Design
 * iCloud Connect
