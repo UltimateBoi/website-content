@@ -70,7 +70,7 @@ You can find model specific information further down the page.
 
 ## AirPods Pro
 
-### v4.9
+### v4.9 (Current Holy Grail)
 > [Find reviews](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)
 
 **CHIP**: Airoha 1562AE  
