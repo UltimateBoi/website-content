@@ -29,25 +29,13 @@ If you use Android, make all your touch settings changes on an iPhone
 No. They will charge, but there is a chance they will break soon after. 
 Don't charge fake pods in a real case, and don't charge real pods in a fake case.
 
-### Will AirPods cases fit?
-All soft silicone protective cases will fit, but hard plastic cases won't 
-fit most clones (mostly older models as they are a bit bigger than the originals). 
-Some hard cases will fit, but may not come of or mess up the button if it sticks out a bit.
-
-### Are AirPods Max replicas out yet?
-Airpods Max replicas are not out just yet, but we expect to see them within 
-the next 1-2 months. The price is expected to be 80-90$ along with Airoha and 
-supposedly Jerry chipsets being utilized. 
-Stay tuned at r/AirReps and the AirReps Discord to be informed exactly when they 
-are released!
-
-### Another community has newer products?
-The products listed above are the greatest of the greatest, 
-we update it every day and make sure the product quality meets our 
-standards before it makes it way onto the guide, similar communities might 
-have lower standards and want to show that they have the newest products even 
-though they might not have them at all. It could also be caused due to them using 
-a different naming scheme than AirReps.
+### Why might similar communities have newer products than this guide?
+The products listed in this guide are the highest quality and are carefully selected
+to meet our standards. We update the list every day to ensure that only the best 
+products are included. Other communities may have lower standards and may include 
+products that are not as high-quality. It is also possible that theyuse a 
+different naming scheme for their products, which could make it appear 
+as though they have newer products than this guide.
 
 ### Which one is the best?  
 The * one rep at the top of the list is the latest model, the other ones are previous models. 
@@ -61,24 +49,18 @@ they won't understand. You can buy random ones if you want to take the risk.
 Otherwise, buy from the verified sellers above to know exactly which model you're getting
 
 ### How do I check what chip I have?
-Download the Airoha Headset app and try to connect your AirPods to it. 
-If they connect they are Airoha. You can also download the 
-[AirReps 156X Airoha app](https://airreps.info/android) 
-on Android and try to connect your AirPods to the app. 
-The app will tell you exactly what chipset is being used in your reps 
-(only if they are Airoha).
+To check the chip in your AirPods, you can try downloading the Airoha Headset 
+app and attempting to connect your AirPods to it. If they connect, then they are 
+using an Airoha chip. You can also download the [AirReps 156X Airoha](https://play.google.com/store/apps/details?id=com.airoha.utapp.sdk) app on Android
+and use it to connect your AirPods. The app will provide information about the chipset
+in your AirPods, but only if they are using an Airoha chip. If your AirPods 
+do not connect to either of these apps, you can use the following method:
 
-:::note
-> To do this you need to use an Android 8.1 or Higher but lower than 10 device, or Mac.
+Check the audio codec of your AirPods. To do this you need to use an Android 8.1 or Higher but lower than 10 device, or Mac.
 
-If they don't connect, then use the following method:
-
-- [Android](https://airreps.info/androidcodeccheck)
-- [macOS](https://airreps.info/maccodeccheck)
-
-At the moment, it is hard to tell from the codec, as most chipsets now support AAC, 
-**but if it has SBC you can be sure the reps are using a lower end chipset.**
-:::
+- ANDROID METHOD https://airreps.info/androidcodeccheck
+- MAC METHOD https://airreps.info/maccodeccheck  
+At the moment, it is hard to tell from the codec, as most chipsets now support AAC, **but if it has SBC you can be sure the reps are using a lower-end chipset.**
 
 ### How do I check my AirPods are real? 
 The quickest way is to connect them to an iPhone and go to:
