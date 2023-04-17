@@ -70,7 +70,27 @@ You can find model specific information further down the page.
 
 ## AirPods Pro
 
-### v4.5 (Current Holy Grail) 
+### v4.9
+> [Find reviews](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)
+**CHIP**: Airoha 1562AE
+**HAS**: Hybrid Active Noise Cancelling | Transparency Mode | Metal Vents | Force Touch Controls | Improved Mic | Spatial Audio | Head Tracking | Improved ANC and Transparency Mode | Almost 1:1 Hinge Design | Retail/Perfect ANC
+**MISSING**: Perfect Spatial Audio | Better SFX | and more subtle details..
+
+### v4.8
+> [Find reviews](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)
+
+**CHIP**: BES 2300ZP
+**HAS**: Hybrid Active Noise Cancelling | Transparency Mode | Metal Vents | Force Touch Controls | Spatial Audio | Head Tracking | Improved ANC and Transparency Mode | 1:1 Hinge Design
+**MISSING**: Retail/Perfect ANC | and more subtle details | Perfect Spatial Audio
+
+### v4.7
+> [Find reviews](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1)
+
+**CHIP**: HUILIAN A6 PRO / BES 2300ZP
+**HAS**: Hybrid Active Noise Cancelling | Transparency Mode | Metal Vents | Force Touch Controls | Spatial Audio | Head Tracking | Close to retail ANC | 1:1 Hinge Design
+**MISSING**: Multi-Device Connect | Retail/Perfect ANC | Perfect Spatial Audio | and more subtle details..
+
+### v4.5
 > [Find reviews](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1)
 
 **CHIP**: Airoha 1562A  
@@ -97,5 +117,35 @@ You can find model specific information further down the page.
 **CHIP**: Airoha 1536  
 **HAS**: Transparency Mode | Metal Hinge | Metal Vents | Improved Build Quality | Force Touch Controls | Audio Share | About Page   
 **MISSING**: ANC | Improved SFX | Better Transparency Mode | Multi-Device Connect | Spatial Audio | and more subtle details..
+
+## AirPods Pro 2
+
+### v5.2
+> [Find reviews](https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1)
+
+**CHIP**: Airoha 1562AE
+**HAS**: Active Noise Cancelling | Better transparency Mode | Metal Vents | Volume Control | Force Touch Controls | About Page | iCloud Connect | Improved SFX | Real Spatial Audio (with head-tracking) | Case Speaker | Hey Siri | iOS 16 Support | 1:1 hinge design | Close to retail ANC (Similar to V4.7/4.9)
+**MISSING**: Perfect Spatial Audio | and many small details..
+
+### v5.1
+> [Find reviews](https://www.reddit.com/r/AirReps/search?q=v5.1&restrict_sr=1)
+
+**CHIP**: Huilian 277 / BES2600IHC
+**HAS**: Active Noise Cancelling | Better transparency Mode | Metal Vents | Volume Control | Force Touch Controls | About Page | iCloud Connect | Improved SFX | Real Spatial Audio (with head-tracking) | Case Speaker | Hey Siri | iOS 16 Support | 1:1 hinge design | Close to retail ANC (Similar to V4.7/4.9)
+**MISSING**: Perfect Spatial Audio | and many small details..
+
+### v5.0
+> [Find reviews](https://www.reddit.com/r/AirReps/search?q=v5.0&restrict_sr=1)
+
+**CHIP**: Huilian 247B
+**HAS**: Active Noise Cancelling | Better transparency Mode | Metal Vents | Volume Control | Force Touch Controls | About Page | iCloud Connect | Improved SFX | Real Spatial Audio (with head-tracking) | Case Speaker | Hey Siri | iOS 16 Support
+**MISSING**: Proper ANC | Perfect Spatial Audio | and many small details..
+
+### v4.2
+> [Find reviews](https://www.reddit.com/r/AirReps/search?q=v4.2&restrict_sr=1)
+
+**CHIP**: Bluetrum
+**HAS**: Active Noise Cancelling | transparency Mode | Metal Vents | Volume Control | Force Touch Controls | About Page | Spatial Audio (no head-tracking - HiCity V4.2 only) | Case Speaker
+**MISSING**: Stable sound quality | Proper ANC | Improved SFX | Better transparency Mode | Multi-Device Connect | Spatial Audio | Accurate Case SFX | and more noticeable details..
 
 ## Older pro clone models have been removed from the list as we do not encourage anyone to buy older versions than these.
